@@ -1,7 +1,6 @@
 # I edited my README.me file for ce6-git-1
-change on local again
-change on local
-```
+
+
 | `git` commands                       | `gh` commands                        |
 |--------------------------------------|--------------------------------------|
 |Setup and Config                      | gh                                   |
@@ -74,7 +73,7 @@ change on local
 |    grep                              |  create                              |
 |--------------------------------------|--------------------------------------|
 
-
+```
 $ git clone -> for the first time cloning repo to local
 
 need to change dir/folder to cloned repo
